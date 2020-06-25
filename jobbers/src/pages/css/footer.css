@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Regular.ttf')
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    text-align: right;
+    justify-content: flex-end;
+    padding: 0 25px;
+    background-color: #FFF;
+    box-shadow: var(--shadow);
+    color:BLACK;
+    font-size: 11px;
+}
+
+#de {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+    padding: 0 25px;
+    background-color: #FFF;
+    box-shadow: var(--shadow);
+    color:BLACK;
+    font-size: 15px;
+}
+
